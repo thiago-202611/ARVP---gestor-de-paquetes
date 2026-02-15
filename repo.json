@@ -1,6 +1,6 @@
 {
-  "mi_app_v1": {
-    "version": "2.0",
-    "url": "file:///home/user1/Desktop/ARVP%20&%20PARG/mi_app_v2.parg"
+  "nano": {
+    "version": "6.2",
+    "url": "https://raw.githubusercontent.com/thiago-202611/ARVP---gestor-de-paquetes/main/nano_v1.parg"
   }
 }
